@@ -1,11 +1,13 @@
 ## Sorting Algorithm
 #### Prior to learn sorting algorithm let's know some related kewords:
-What is sorting?
+
+###### What is sorting?
+
 Simply sorting means rearrange something in a particular order.
 
-There are two types of order we will be using in this tutorial. They are
-(a) Asscending Order
-(b) Descending Order
+There are two types of order we will be using in this tutorial. They are:
+1. Asscending Order
+2. Descending Order
 
 
 
