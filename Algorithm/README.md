@@ -1,3 +1,21 @@
+## Sorting Algorithm
+#### Prior to learn sorting algorithm let's know some related kewords:
+What is sorting?
+Simply sorting means rearrange something in a particular order.
+
+There are two types of order we will be using in this tutorial. They are
+(a) Asscending Order
+(b) Descending Order
+
+
+
+
+
+
+
+
+
+
 
 Time Complexity of Insrtion Sort (Worst Case)
 <!--Giphy Animation-->
@@ -12,8 +30,6 @@ Insertion Sort (Best Case)
   <img src="https://media.giphy.com/media/ozVDqkgf8NULbZzhJC/giphy.gif" height=100% width=100%/></img>
 </div>
 Time complexity for Insertion Sort (Best Case):
-
-
 
 
 
